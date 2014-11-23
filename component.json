@@ -1,0 +1,10 @@
+{
+  "name": "selectivizr",
+  "version": "1.0.2",
+  "main": "selectivizr.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
